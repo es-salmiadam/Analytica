@@ -1,6 +1,6 @@
 Analyse Big Data de tweets (Kafka, Spark, Hadoop)
 
-Ce projet de PFE met en place une architecture Big Data pour analyser des données de réseaux sociaux (tweets en anglais de 2022) et extraire des indicateurs sur les tendances et l’opinion des utilisateurs.​
+Ce projet de PFE met en place une architecture Big Data pour analyser des données de réseaux sociaux et extraire des indicateurs sur les tendances et l’opinion des utilisateurs.​
 Objectifs du projet
 
     Simuler ou consommer un flux de tweets via un dataset public (Kaggle).​
@@ -33,6 +33,4 @@ Stack technique
 
     Stockage : Hadoop / HDFS.​
 
-    Visualisation : Tableau (ou autre outil de BI).​
-
-    Données : Dataset Twitter public (Kaggle).
+    Visualisation : PowerBI
