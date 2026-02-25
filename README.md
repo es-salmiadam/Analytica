@@ -3,7 +3,7 @@ Analyse Big Data de tweets (Kafka, Spark, Hadoop)
 Ce projet de PFE met en place une architecture Big Data pour analyser des données de réseaux sociaux et extraire des indicateurs sur les tendances et l’opinion des utilisateurs.​
 Objectifs du projet
 
-    Simuler ou consommer un flux de tweets via un dataset public (Kaggle).​
+    Simuler ou consommer un flux de tweets ​
 
     Ingestion des données en temps réel (ou quasi temps réel) avec Apache Kafka.​
 
