@@ -49,7 +49,6 @@ PFE101/
 │       ├── top_hashtags.csv         # Top 10 Hashtags
 │       ├── tweets_per_day.csv       # Volume de tweets par jour
 │       └── engagement_per_day.csv   # Engagement journalier
-├── Rapport_PFE_Complet7.tex         # Rapport LaTeX complet (Overleaf)
 └── Dashbord.pbix                    # Tableau de bord Power BI
 ```
 
