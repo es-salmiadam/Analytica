@@ -92,7 +92,7 @@ Ouvrir `Dashbord.pbix` dans Power BI Desktop puis cliquer **Actualiser**.
 | Indicateur | Valeur |
 |---|---|
 | Top Hashtag 2022 | #NFT (1989 occurrences) |
-| Sentiment moyen annuel | +0.09 (légèrement positif) |
+| Sentiment moyen annuel | +0.3 (légèrement positif) |
 | Jours à sentiment négatif | ~35% |
 | Jours à sentiment positif | ~65% |
 | Horizon de prévision ML | 30 jours |
